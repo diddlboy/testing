@@ -11,8 +11,8 @@ You can download a english version here:
 > http://download.msi.com/archive/mnu_exe/E7B78v1.1.zip
 Try to find a way  to extract the manual from the zipped file.
 
-The paper printed version is in the package, I think you have noticed that, but no time to read.
-But for Troubleshooting, you have to find out it and start to read.
+The printed version is in the package, I think you have noticed that, but no time to read.
+For Troubleshooting, you have to find out it and start to read.
 I haven’t the printed version, so I had to download it from the internet, In fact I prefer this electrical or PDF version, it is easy to keep and read and search online.
 
 These pages are informative:
