@@ -18,14 +18,14 @@ I haven’t the printed version, so I had to download it from the internet, In f
 These pages are informative:
 - PAGE 46: EZ Debug LED
   - These LEDs indicate the debug status of the motherboard.
-    Take a look at these LED, try to find out all parts work or not.
+  - Take a look at these LED, try to find out all parts work or not.
 
 - PAGE 112: Troubleshooting
-Read the section:
-The power is on, but no signal to monitor
-Pay attention at: 
-If 3 long beeps are heard, remove all memory modules and ...
-If 1 long 2 short beeps are heard, remove and reinstall the graphics card and ...
+  - Read the sections:
+    - The power is on, but no signal to monitor
+  - Pay attention at: 
+    - If 3 long beeps are heard, remove all memory modules and ...
+    - If 1 long 2 short beeps are heard, remove and reinstall the graphics card and ...
 
 Test with another known working graphics card is a way to figure out if the graphics card works, or take this graphics card to another computer to figure out if the graphics card works with some ones motherboard. Because graphics card needs special electronic power, a computer power supply at least 550 Watt is needed, and power cord for graphics card is needed.
 
