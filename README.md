@@ -9,6 +9,7 @@ https://us.msi.com/Motherboard/support/X470-GAMING-PRO-CARBON#down-manual
 
 You can download a english version here:
 http://download.msi.com/archive/mnu_exe/E7B78v1.1.zip
+
 Try to find a way  to extract the manual from the zipped file.
 
 The paper printed version is in the package, I think you have noticed that, but no time to read.
