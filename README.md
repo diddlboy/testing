@@ -26,8 +26,7 @@ Some pages in the manual are informative, like:
   - Pay attention at: 
     - If 3 long beeps are heard, remove all memory modules and ...
     - If 1 long 2 short beeps are heard, remove and reinstall the graphics card and ...
-
-Test with another known working graphics card is a way to figure out if the graphics card works, or take this graphics card to another computer to figure out if the graphics card works with some ones motherboard. Because graphics card needs special electronic power, a computer power supply at least 550 Watt is needed, and power cord for graphics card is needed.
+  - Test with another known working graphics card is a way to figure out if the graphics card works, or take this graphics card to another computer to figure out if the graphics card works with some ones motherboard. Because graphics card needs special electronic power, a computer power supply at least 550 Watt is needed, and power cord for graphics card is needed.
 
 ### Caution: Power Down with switch off or unplug the power cord before remove, reinstall Memory modules, reinstall Graphics card, or some of those parts may damaged, and had to be replaced with a new one.
 
