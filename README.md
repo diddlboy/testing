@@ -11,11 +11,11 @@ You can download a english version here:
 > http://download.msi.com/archive/mnu_exe/E7B78v1.1.zip
 Try to find a way  to extract the manual from the zipped file.
 
-The printed version is in the package, I think you have noticed that, but no time to read.
+The printed version is in the motherboard's package, I think you have noticed that, but no time to read.
 For Troubleshooting, you have to find out it and start to read.
-I haven’t the printed version, so I had to download it from the internet, In fact I prefer this electrical or PDF version, it is easy to keep and read and search online.
+I haven’t a printed version, so I had to download it from the http://www.msi.com, I prefer electrical or PDF version, it is easy to keep and read and search online.
 
-These pages are informative:
+Some pages in the manual are informative, like:
 - PAGE 46: EZ Debug LED
   - These LEDs indicate the debug status of the motherboard.
   - Take a look at these LED, try to find out all parts work or not.
@@ -29,7 +29,7 @@ These pages are informative:
 
 Test with another known working graphics card is a way to figure out if the graphics card works, or take this graphics card to another computer to figure out if the graphics card works with some ones motherboard. Because graphics card needs special electronic power, a computer power supply at least 550 Watt is needed, and power cord for graphics card is needed.
 
-## Caution: Power Down with switch off or unplug the power cord before remove, reinstall Memory modules, reinstall Graphics card, or some of those parts may damaged, and had to be replaced with a new one.
+### Caution: Power Down with switch off or unplug the power cord before remove, reinstall Memory modules, reinstall Graphics card, or some of those parts may damaged, and had to be replaced with a new one.
 
 So read the motherboard manual carefully, and be patient, take another 7.5 hours or more, to find out why and fix it. if you think some port has damaged, we can try to ask service from amazon, or buy ad new part to replace.
 
