@@ -29,7 +29,7 @@ If 1 long 2 short beeps are heard, remove and reinstall the graphics card and ..
 
 Test with another known working graphics card is a way to figure out if the graphics card works, or take this graphics card to another computer to figure out if the graphics card works with some ones motherboard. Because graphics card needs special electronic power, a computer power supply at least 550 Watt is needed, and power cord for graphics card is needed.
 
-Caution: Power Down with switch off or unplug the power cord, before remove or reinstall Memory modules or Graphics card, or some part may damaged, and had to replaced with a new one.
+## Caution: Power Down with switch off or unplug the power cord before remove, reinstall Memory modules, reinstall Graphics card, or some of those parts may damaged, and had to be replaced with a new one.
 
 So read the motherboard manual carefully, and be patient, take another 7.5 hours or more, to find out why and fix it. if you think some port has damaged, we can try to ask service from amazon, or buy ad new part to replace.
 
