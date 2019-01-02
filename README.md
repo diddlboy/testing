@@ -31,6 +31,8 @@ Test with another known working graphics card is a way to figure out if the grap
 
 ### Caution: Power Down with switch off or unplug the power cord before remove, reinstall Memory modules, reinstall Graphics card, or some of those parts may damaged, and had to be replaced with a new one.
 
-So read the motherboard manual carefully, and be patient, take another 7.5 hours or more, to find out why and fix it. if you think some port has damaged, we can try to ask service from amazon, or buy ad new part to replace.
+So read the manual carefully, be patient, take another 7.5 hours or more to find out why, hope you can fix it. if you think some parts was damaged, tell me, we can try to ask services from amazon. At least, we can buy some new parts to replace.
 
 Treat this like another game, you will learn something new.
+
+Leave me some text below if you want.
