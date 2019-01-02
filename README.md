@@ -34,5 +34,3 @@ Test with another known working graphics card is a way to figure out if the grap
 So read the manual carefully, be patient, take another 7.5 hours or more to find out why, hope you can fix it. if you think some parts was damaged, tell me, we can try to ask services from amazon. At least, we can buy some new parts to replace.
 
 Treat this like another game, you will learn something new.
-
-Leave me some text below if you want.
